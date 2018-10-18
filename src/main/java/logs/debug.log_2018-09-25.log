@@ -1,0 +1,298 @@
+2018-09-25 16:50:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 16:50:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 16:50:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 16:50:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 16:50:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 16:50:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 17:06:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 17:06:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:06:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 17:11:49 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 17:11:49 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:11:49 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 17:28:32 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 17:28:32 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:28:32 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 17:34:55 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 17:34:55 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:34:55 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 17:44:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 17:44:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:44:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 17:49:45 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 17:49:45 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 17:49:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 17:51:50 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 17:52:15 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:15:24 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:15:25 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:16:30 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:16:30 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:16:31 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:16:31 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:16:31 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:16:31 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:16:31 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:16:31 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:16:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:20:38 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:20:38 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:20:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:20:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:20:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:20:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:20:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:20:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:21:02 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:23:36 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 18:23:36 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:23:36 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 18:29:41 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 18:29:42 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:29:42 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 18:33:37 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 18:33:38 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:33:38 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 18:34:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 18:34:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:34:54 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 18:50:55 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:50:55 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:50:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:50:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:50:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:50:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Finish
+2018-09-25 18:50:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:50:57 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Start
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login02:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:login:Test Skipped
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:51:17 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Login:Test Finish
+2018-09-25 18:53:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:53:13 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:Banner:Test Start
+2018-09-25 18:53:28 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 18:53:28 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 18:53:28 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish
+2018-09-25 19:00:46 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Start
+2018-09-25 19:00:48 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.error(LogUtil.java:38) ]
+ERROR:click:Test Skipped
+2018-09-25 19:00:48 下午 [Thread: main][ Class:com.auto.utils.LogUtil >> Method: com.auto.utils.LogUtil.info(LogUtil.java:30) ]
+INFO:TestAction-master:Test Finish

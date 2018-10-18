@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="com.auto.utils.TestNGListener"/>
+    </listeners>
+    <!--chrome驱动下载地址：https://www.cnblogs.com/qingqing-919/p/9055285.html-->
+    <parameter name="browserDriverUrl" value="D:\workspaces\java\maven\UiAuto\selenium\TestAction-master\src\main\resources\driverExe\chromedriver.exe"/>
+    <parameter name="url" value="https://beta.kujiale.com"/>
+
+
+    <test name="Banner" verbose="2">
+        <classes>
+            <class name="com.auto.tastcase.BannerTest">
+                <!--<methods>-->
+                    <!--<include name="testcase1"/>-->
+                    <!--<include name="testcase2"/>-->
+                <!--</methods>-->
+            </class>
+        </classes>
+    </test>
+
+    <parameter name="username" value="13003697518"/>
+    <parameter name="pwd" value="12345678a"/>
+    <test name="Login" verbose="2">
+        <classes>
+            <class name="com.auto.tastcase.LoginTest"/>
+        </classes>
+    </test>
+
+</suite>
+
